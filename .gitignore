@@ -1,2 +1,4 @@
 \node_modules
 setting.json
+*.json
+!package.json
